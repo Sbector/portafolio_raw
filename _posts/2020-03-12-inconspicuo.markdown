@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Inconspicuo, 2018"
-date: 2020-03-12
+date: 2021-08-01
 description: 
-image: /portafolio/assets/images/inconspicuo.jpg
+card_image: /assets/images/inconspicuo.jpg
 author: c-lofan
 tags:
   - in situ
 ---
 
-# Inconspicuo, 2018
+Este es un párrafo de prueba.
 
 <iframe src="https://drive.google.com/file/d/1C-dMCp_S03kQIZtQlilJSyw4kIaYJ4HT/preview" width="640" height="480" allow="autoplay"></iframe>
