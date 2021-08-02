@@ -4,7 +4,7 @@ title: "kitchen"
 date: 2021-08-02
 description: 
 image: 
-card_image: /assets/images/manchuf.jpg
+card_image: /assets/images/kitchen2.jpg
 author: c-lofan
 tags:
   - fotografía
@@ -12,6 +12,6 @@ tags:
 
 Parrafo de prueba
 
-![img1]({{ '/assets/images/kitchpart.jpg' | relative_url }}#full)
+![img1]({{ '/assets/images/kitchen1.jpg' | relative_url }}#full)
 
-![img2]({{ '/assets/images/manchuf.jpg' | relative_url }}#full)
+![img2]({{ '/assets/images/kitchen2.jpg' | relative_url }}#full)
