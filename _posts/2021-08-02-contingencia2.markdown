@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "contingencia no.2, 2018"
+title: "contingencia no.2"
 date: 2021-08-02
 description: 
 card_image: /assets/images/contingencia2.jpg
