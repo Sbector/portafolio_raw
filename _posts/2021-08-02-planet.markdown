@@ -1,0 +1,16 @@
+---
+layout: post
+title: "planet"
+date: 2021-08-02
+description: 
+image: 
+card_image: /assets/images/planet.jpg
+author: DDO
+tags:
+  - video
+  - cut out
+---
+
+Parrafo de prueba
+
+![img1]({{ '/assets/images/planet.jpg' | relative_url }}#full)

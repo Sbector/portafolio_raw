@@ -1,0 +1,17 @@
+---
+layout: post
+title: "kitchen"
+date: 2021-08-02
+description: 
+image: 
+card_image: /assets/images/manchuf.jpg
+author: c-lofan
+tags:
+  - fotografía
+---
+
+Parrafo de prueba
+
+![img1]({{ '/assets/images/kitchpart.jpg' | relative_url }}#full)
+
+![img2]({{ '/assets/images/manchuf.jpg' | relative_url }}#full)

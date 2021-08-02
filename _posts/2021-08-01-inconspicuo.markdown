@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inconspicuo, 2018"
+title: "Inconspicuo"
 date: 2021-08-01
 description: 
 card_image: /assets/images/inconspicuo.jpg
