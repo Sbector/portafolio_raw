@@ -1,7 +1,7 @@
 # Site/SEO settings
 email: saulbector@gmail.com
 baseurl: "/portafolio"
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 google_analytics: 
 
 name: c-lofan
