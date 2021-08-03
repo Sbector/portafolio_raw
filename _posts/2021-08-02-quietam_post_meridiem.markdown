@@ -11,6 +11,6 @@ tags:
 
 Parrafo de prueba
 
-![img1]({{ '/assets/images/quietam_post_meridiem.jpg' | relative_url }})
+![img1]({{ '/assets/images/quietam_post_meridiem1.jpg' | relative_url }})
 
 ![img2]({{ '/assets/images/quietam_post_meridiem2.jpg' | relative_url }})
