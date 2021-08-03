@@ -13,4 +13,4 @@ tags:
 
 Parrafo de prueba
 
-![img1]({{ '/assets/images/planet.jpg' | relative_url }}#full)
+![img1]({{ '/assets/images/planet.jpg' | relative_url }})

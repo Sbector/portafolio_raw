@@ -12,4 +12,4 @@ tags:
 
 Parrafo de prueba
 
-![img1]({{ '/assets/images/complete_this_work.jpg' | relative_url }}#full)
+![img1]({{ '/assets/images/complete_this_work.jpg' | relative_url }})

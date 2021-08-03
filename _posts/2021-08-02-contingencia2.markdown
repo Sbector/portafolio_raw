@@ -11,4 +11,4 @@ tags:
 
 Este es un párrafo de prueba.
 
-![inconspicuo]({{ '/assets/images/contingencia2.jpg' | relative_url }}#full)
+![inconspicuo]({{ '/assets/images/contingencia2.jpg' | relative_url }})
