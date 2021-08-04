@@ -7,7 +7,7 @@ image:
 card_image: /assets/images/rodin_countdown.jpg
 author: c-lofan
 tags:
-  - web site
+  - web art
 ---
 
 Parrafo de prueba
