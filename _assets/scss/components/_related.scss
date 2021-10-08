@@ -49,6 +49,9 @@
 
   &__img {
     @extend .posts__img;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
   }
 
   &__text {
